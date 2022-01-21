@@ -1,0 +1,11 @@
+{
+  "name": "googlecalculatortest",
+  "version": "1.0.0",
+  "description": "automation test for google calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Fernando Rico",
+  "license": "ISC"
+}
